@@ -15,6 +15,6 @@ In this task, an LSTM model is trained on a large corpus of text to learn the pa
 
 ### Prediction: Once trained, the model can predict the next word by providing a sequence of words as input and selecting the word with the highest predicted probability.
 
-This approach can be used for various applications, such as autocompletion, text generation, and conversational agents.
+### This approach can be used for various applications, such as autocompletion, text generation, and conversational agents.
 
 
