@@ -2,6 +2,10 @@
 
 <img src="https://github.com/shreymukh2020/NLP-Next-Word-Prediction-with-LSTMs/blob/main/Nextwordprediction_Lstms.png" alt="Seq to Seq Architecture" width="500"/>
 
+<img src="https://github.com/shreymukh2020/NLP-Next-Word-Prediction-with-LSTMs/blob/main/Nextwordprediction_Lstms_3.png" alt="Seq to Seq Architecture" width="500"/>
+
+
+
 
 Next word prediction with Long Short-Term Memory (LSTM) networks is a common application of Recurrent Neural Networks (RNNs) in natural language processing. LSTMs are well-suited for sequential data because they can retain information over long sequences, which is important for tasks like language modeling and next word prediction.
 
